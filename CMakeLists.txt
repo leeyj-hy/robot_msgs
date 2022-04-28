@@ -63,6 +63,7 @@ add_service_files(
   navGoal.srv
   mrkrDist.srv
   usDist.srv
+  mrkrPos.srv
 )
 
 ## Generate actions in the 'action' folder
