@@ -64,7 +64,7 @@ add_service_files(
   mrkrDist.srv
   usDist.srv
   mrkrPos.srv
-  omo_align.srv
+  omoalign.srv
 )
 
 ## Generate actions in the 'action' folder
