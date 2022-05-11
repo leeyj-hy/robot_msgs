@@ -65,6 +65,7 @@ add_service_files(
   usDist.srv
   mrkrPos.srv
   omoalign.srv
+  omoapproach.srv
 )
 
 ## Generate actions in the 'action' folder
